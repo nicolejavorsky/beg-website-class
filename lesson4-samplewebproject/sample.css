@@ -1,3 +1,17 @@
 body {
 	background-color: #F3FAB6;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h1 {
+	color: #005A31;
+	font-size: 32px;
+}
+
+.info {
+	padding: 20px;
+}
+
+p {
+	font-size: 24px;
 }
