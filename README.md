@@ -90,3 +90,11 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
   6. Glass bottles take 4,000 years to decompose.
   7. One quart of motor oil can contaminate 2 million gallons of fresh water.
   8. In 2013, Americans recovered over 64.7 million tons of waste through recycling, and over 22 million tons through composting.
+* Let's process this!
+  1. Did you already know these?
+  2. Did any of them surprise you?
+  3. What can we do about it?
+
+**Wednesday**
+* Review of HTML / CSS
+  1. Take questions. Go over past things learned. If the kids want to learn more, delve further.
