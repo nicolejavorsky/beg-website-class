@@ -42,4 +42,9 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
   ```html
   <img src="mural.jpg">
   ```
-  On Wednesday, we will learn about how to make the web page prettier and how to make this image fit better on page.
+  Let's break it down. The "src" shows the source a.k.a "WHERE IS THE IMAGE COMING FROM???" Inside the quotation marks, we have the filename of the image. Be careful though. If you put your images in a folder, you have to let the internet know where to look for your file!
+  For example, if your image mural.jpg is inside a folder called images, you gotta say that! Here's how that works:
+  ```html
+  <img src="images/mural.jpg">
+  ```
+  Pretty simple, right? Well, we will have to make this a bit more complicated. I promise that you can do it though! So, on Wednesday, we will learn about how to make the web page prettier and how to make this image fit better on page.
