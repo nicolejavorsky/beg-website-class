@@ -60,5 +60,5 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
   ```html
   <link rel="stylesheet" type="text/css" href="1.css">
   ```
-  7. Let's break it down. First, you're saying, "Okay, I'm linking to a style sheet." Then, "Yeah, the type is a CSS text file." Finally, you're saying, "Here's the filename so you can find what I'm talking about." Kinda similar to adding images, right? Tell me how.
+  Let's break it down. First, you're saying, "Okay, I'm linking to a style sheet." Then, "Yeah, the type is a CSS text file." Finally, you're saying, "Here's the filename so you can find what I'm talking about." Kinda similar to adding images, right? Tell me how.
 
