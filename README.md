@@ -35,7 +35,18 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
   3. Okay, so what is that something? How does the skeleton become a person? How do we make the plain website look good? With CSS! Ah, another set of letters with no obvious meaning. Yeah, CSS means Cascading Style Sheets. Yup. Basically, CSS gives the skeleton webpage life with colors, fonts, and other styling.
   4. Now, you have an idea of how websites come together. There's an HTML document for structure and there's a CSS document for styling.
   5. Yeah! Go us! Can someone explain all of this stuff? Put it in your own words. One volunteer and then we'll start our first HTML document!
-
+  ```html
+  <!DOCTYPE html>
+  <html> 
+	  <head>
+		  <title>My Website</title>
+	  </head>
+	  <body>
+		  <h1>Hi I am Nicole!!!</h1>
+		  <p>Harlem Grown rocks!</p>		
+    </body> 
+  </html>
+  ```
 ## Week2
 **Monday**
 * Introduce Project #1: Make web page about food production. Include photo of mural made during Week 1 in webpage.  (Use this as an opportunity to teach about including images in websites.)
