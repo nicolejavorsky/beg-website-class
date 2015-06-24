@@ -5,6 +5,7 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
 1. [Timeline](#timeline)
 2. [Week1](#week1)
 3. [Week2](#week2)
+4. [Week3](#week3)
 
 ## Timeline
 | Week        | Monday           | Wednesday  |
@@ -77,3 +78,15 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
   ```
   Let's break it down. First, you're saying, "Okay, I'm linking to a style sheet." Then, "Yeah, the type is a CSS text file." Finally, you're saying, "Here's the filename so you can find what I'm talking about." Kinda similar to adding images, right? Tell me how.
 
+## Week3
+**Monday**
+* What is sustainability?  Have the kids throw out their ideas and write it on chart paper.
+* It's time for a SNOWBALL FIGHT! Print one statistic relating to sustainability on each sheet of paper. Crumple up each sheet of paper. Time one minute for the kids to have a snowball fight. Then, count down and yell "STOP"! Have each kid pick up one snowball and have them read the statistic aloud one at a time.
+  1. Americans comprise about 5% of the world's population and annually produce 27% of the world's garbage.
+  2. The average American uses seven trees and 680 pounds of paper per year.
+  3. Today, 62 million newspapers will be printed in the U.S., and 44 million will be thrown away. That means the equivalent of about 500,000 trees will be dumped into landfills this week.
+  4. Aluminum cans are the #1 recycled item. Because of this, they make up less than 1% of waste in the U.S.
+  5. Every day, Americans use enough steel and tin cans to make a steel pipe running from Los Angeles to New York and back.
+  6. Glass bottles take 4,000 years to decompose.
+  7. One quart of motor oil can contaminate 2 million gallons of fresh water.
+  8. In 2013, Americans recovered over 64.7 million tons of waste through recycling, and over 22 million tons through composting.
