@@ -6,6 +6,7 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
 2. [Week1](#week1)
 3. [Week2](#week2)
 4. [Week3](#week3)
+5. [Week4](#week4)
 
 ## Timeline
 | Week        | Monday           | Wednesday  |
@@ -96,3 +97,7 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
 **Wednesday**
 * Review of HTML / CSS
   1. Take questions. Go over past things learned. If the kids want to learn more, delve further.
+
+## Week 4
+**Monday**
+* What is environmental justice? Have the kids throw out their ideas and write it on chart paper.
