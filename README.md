@@ -4,6 +4,7 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
 # Table of Contents
 1. [Timeline](#timeline)
 2. [Week1](#week1)
+3. [Week2](#week2)
 
 ## Timeline
 | Week        | Monday           | Wednesday  |
@@ -33,3 +34,12 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
   3. Okay, so what is that something? How does the skeleton become a person? How do we make the plain website look good? With CSS! Ah, another set of letters with no obvious meaning. Yeah, CSS means Cascading Style Sheets. Yup. Basically, CSS gives the skeleton webpage life with colors, fonts, and other styling.
   4. Now, you have an idea of how websites come together. There's an HTML document for structure and there's a CSS document for styling.
   5. Yeah! Go us! Can someone explain all of this stuff? Put it in your own words. One volunteer and then we'll start our first HTML document!
+
+## Week2
+**Monday**
+* Introduce Project #1: Make web page about food production. Include photo of mural made during Week 1 in webpage.  (Use this as an opportunity to teach about including images in websites.)
+  1. How will you be able to include the image of the mural in your website?
+  ```html
+  <img src="mural.jpg">
+  ```
+  On Wednesday, we will learn about how to make the web page prettier and how to make this image fit better on page.
