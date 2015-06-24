@@ -7,7 +7,7 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
 
 ## Timeline
 | Week        | Monday           | Wednesday  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|
 | 1      | Food Production | Intro to HTML |
 | 2      | Make web page about food production      |   Intro to CSS, Spice up web page with CSS |
 | 3 | Sustainability      |    Review HTML / CSS concepts |
