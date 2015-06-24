@@ -39,11 +39,11 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
   <!DOCTYPE html>
   <html> 
 	<head>
-		<title>My Website</title>
+	   <title>My Website</title>
 	</head>
 	<body>
-		<h1>Hi I am Nicole!!!</h1>
-		<p>Harlem Grown rocks!</p>		
+	   <h1>Hi I am Nicole!!!</h1>
+	   <p>Harlem Grown rocks!</p>		
     	</body> 
   </html>
   ```
