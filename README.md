@@ -101,3 +101,6 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
 ## Week 4
 **Monday**
 * What is environmental justice? Have the kids throw out their ideas and write it on chart paper.
+* Have the kids write down a story about an experience they've had around the concept of environmental justice.
+* Human Barometer Activity
+  1. ADD QUESTIONS HERE! 
