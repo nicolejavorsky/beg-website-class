@@ -48,3 +48,17 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
   <img src="images/mural.jpg">
   ```
   Pretty simple, right? Well, we will have to make this a bit more complicated. I promise that you can do it though! So, on Wednesday, we will learn about how to make the web page prettier and how to make this image fit better on page.
+  
+**Wednesday**
+* Introduction to CSS
+  1. Let's review. What does CSS stand for? CSS stands for Cascading Style Sheets. What does it do? Spices up your website!
+  2. Okay, let's go over some things you can do with CSS:
+  3. Now it's time to create a CSS file to go with your HTML file from last time.
+  4. Pull up your HTML file in your browser.
+  5. WAIT. NO. WHY ISN'T THIS WORKING?!
+  6. You need to link the two files together. Right now, the HTML and CSS files are sitting side by side in your folder. However, your HTML file doesn't know that. So, let's try this:
+  ```html
+  <link rel="stylesheet" type="text/css" href="1.css">
+  ```
+  7. Let's break it down. First, you're saying, "Okay, I'm linking to a style sheet." Then, "Yeah, the type is a CSS text file." Finally, you're saying, "Here's the filename so you can find what I'm talking about." Kinda similar to adding images, right? Tell me how.
+
