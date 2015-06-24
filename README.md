@@ -66,9 +66,7 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
 * Introduction to CSS
   1. Let's review. What does CSS stand for? CSS stands for Cascading Style Sheets. What does it do? Spices up your website!
   2. Okay, let's go over some things you can do with CSS:
-  *
-  *
-
+  * ADD!
   3. Now it's time to create a CSS file to go with your HTML file from last time.
   4. Pull up your HTML file in your browser.
   5. WAIT. NO. WHY ISN'T THIS WORKING?!
