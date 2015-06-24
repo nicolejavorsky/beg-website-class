@@ -3,7 +3,7 @@ Harlem Grown's mission is to inspire youth to live healthy and ambitious lives t
 I am teaching an HTML / CSS class twice a week for the duration of the camp that is themed around food sustainability and environmental justice.
 # Table of Contents
 1. [Timeline](#timeline)
-2. [Example2](#example2)
+2. [Week1](#week1)
 
 ## Timeline
 | Week        | Monday           | Wednesday  |
@@ -15,3 +15,5 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
 | 5 | Finish stories website      |    Introduce final project |
 | 6 | Workday      |    Workday |
 | 6 | Presentations      |    Presentations / Celebration! |
+
+## Week1
