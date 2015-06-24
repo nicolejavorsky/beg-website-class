@@ -20,7 +20,8 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
 ## Week1
 **Monday**
 * Discussion Questions
-  1. ADD
+  1. XXX
+  2. XXX
 * Activity
   1. Vote on a food item.
   2. Bring out the long paper and art supplies.
