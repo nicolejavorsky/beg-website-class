@@ -8,14 +8,14 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
 
 ## Timeline
 | Week        | Monday           | Wednesday  |
-| ------------- |:-------------:| :-----:|
+| :-------------: |:-------------:| :-----:|
 | 1      | Food Production | Intro to HTML |
 | 2      | Make web page about food production      |   Intro to CSS, Spice up web page with CSS |
 | 3 | Sustainability      |    Review HTML / CSS concepts |
 | 4 | Environmental Justice      |    Menu/File Structure, Make website about children’s stories |
 | 5 | Finish stories website      |    Introduce final project |
 | 6 | Workday      |    Workday |
-| 6 | Presentations      |    Presentations / Celebration! |
+| 7 | Presentations      |    Presentations / Celebration! |
 
 ## Week1
 **Monday**
