@@ -17,7 +17,7 @@ I am teaching an HTML / CSS class twice a week for the duration of the camp that
 | 6 | Presentations      |    Presentations / Celebration! |
 
 ## Week1
-Monday
+**Monday**
 * Discussion Questions
   1. ADD
 * Activity
@@ -26,7 +26,7 @@ Monday
   3. Split kids into groups and assign one part of the production process to each group.
   4. Each group illustrates a part of the process.
 
-Wednesday
+**Wednesday**
 * Introduction to HTML
   1. So, what does HTML stand for? HyperText Markup Language! You're probably thinking, "I still have no idea what this HTML thing is." I don't blame you! Basically, HTML allows us to create content for websites. This can include things like inserting images, tables, headings, paragraphs of text, and more.
   2. I hate to break to you, but using HTML alone ain't pretty. If you've seen any websites yourself, you have probably noticed colors, font-sizes, and other wonderful styling. This does NOT come from an HTML document. Think of HTML as the skeleton of your website and there's something else to transform that. In other words, we need something to make that skeleton into a living, breathing human instead of an ugly structure of bones. Sorry for the creepy image I may have just given your mind!
