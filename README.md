@@ -1,6 +1,6 @@
 # HTML / CSS Curriculum for Harlem Grown's Summer Camp
 Harlem Grown's mission is to inspire youth to live healthy and ambitious lives through mentorship and hands-on education in urban farming, sustainability, and nutrition.
-I am teaching a HTML / CSS class twice a week for the duration of the camp that is themed around food sustainability and environmental justice.
+I am teaching a HTML / CSS class twice a week for the duration of the camp that is themed around sustainability and food justice.
 # Table of Contents
 1. [Timeline](#timeline)
 2. [Week1](#week1)
