@@ -14,7 +14,7 @@ I am teaching a HTML / CSS class twice a week for the duration of the camp that 
 | 1      | Food Production | Intro to HTML |
 | 2      | Make web page about food production      |   Intro to CSS, Spice up web page with CSS |
 | 3 | Sustainability      |    Review HTML / CSS concepts |
-| 4 | Environmental Justice      |    Menu/File Structure, Make website about children’s stories |
+| 4 | Food Justice      |    Menu/File Structure, Make website about children’s stories |
 | 5 | Finish stories website      |    Introduce final project |
 | 6 | Workday      |    Workday |
 | 7 | Presentations      |    Presentations / Celebration! |
@@ -95,7 +95,10 @@ I am teaching a HTML / CSS class twice a week for the duration of the camp that 
 
 ## Week 4
 **Monday**
-* What is environmental justice? Have the kids throw out their ideas and write it on chart paper.
-* Have the kids write down a story about an experience they've had around the concept of environmental justice.
-* Human Barometer Activity
-  1. ADD QUESTIONS HERE! 
+* Lesson
+	1. Review food production, sustainability & how they relate to food justice?
+	2. How does harlem grown show food justice?
+	3. Why is food justice important?
+* Activity
+	1. Human Barometer activity for WHO and HOW we can address questions of food justice?
+* Introduce final project
