@@ -22,13 +22,12 @@ I am teaching a HTML / CSS class twice a week for the duration of the camp that 
 ## Week1
 **Monday**
 * Lesson
-	1. Show the kids two tomatoes (one purchased from a typical supermarket, one from Harlem Grown farm)
-	2. Explain that these two tomatoes have different cycles of food production
-	3.  Go through tomato 1 and 2 (general description) 
+	1. Materials: Two tomatoes (one purchased from a typical supermarket, one from Harlem Grown farm)
+	2. Explain different cycles of food production 
 * Activity
-	1. Divide the kids into two groups and assign each group one tomato
+	1. Divide kids into two groups and assign each group one tomato
 	2. Ask them to draw the food production process for the tomato
-	3. What do the seeds look like? What does the farm look like? Who is working on the farm? What happens after harvest? Who is buying or eating the tomato?
+	3. Key Questions: What do the seeds look like? What does the farm look like? Who is working on the farm? What happens after harvest? Who is buying or eating the tomato?
 
 **Wednesday**
 * Introduction to HTML
@@ -82,10 +81,11 @@ I am teaching a HTML / CSS class twice a week for the duration of the camp that 
 **Monday**
 * Lesson
 	1. What is sustainability? Quick brainstorm
-	2. Explain what it is & key words associated with it (mindful, long-term, future generations, resiliat, self-reliant)
+	2. Key Words: mindful, long-term, future generations, resiliat, self-reliant
 * Activity
-	1. Designing a resilient community (what does your community look like)? 
+	1. Designing a resilient community (what institutions are present? where and how do people live?) 
 	2. What happens to the community when there is a fire? flood? No jobs? Theft?
+	____________________________________________________________________________
 	3. Choose one volunteer and ask them to pick from a list of products
 	4. Explore the connections to the outside world, and how this item has an ecological footprint, what systems its a part of, and how sustainable it is. 
 
