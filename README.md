@@ -79,20 +79,14 @@ I am teaching a HTML / CSS class twice a week for the duration of the camp that 
 
 ## Week3
 **Monday**
-* What is sustainability?  Have the kids throw out their ideas and write it on chart paper.
-* It's time for a SNOWBALL FIGHT! Print one statistic relating to sustainability on each sheet of paper. Crumple up each sheet of paper. Time one minute for the kids to have a snowball fight. Then, count down and yell "STOP"! Have each kid pick up one snowball and have them read the statistic aloud one at a time.
-  1. Americans comprise about 5% of the world's population and annually produce 27% of the world's garbage.
-  2. The average American uses seven trees and 680 pounds of paper per year.
-  3. Today, 62 million newspapers will be printed in the U.S., and 44 million will be thrown away. That means the equivalent of about 500,000 trees will be dumped into landfills this week.
-  4. Aluminum cans are the #1 recycled item. Because of this, they make up less than 1% of waste in the U.S.
-  5. Every day, Americans use enough steel and tin cans to make a steel pipe running from Los Angeles to New York and back.
-  6. Glass bottles take 4,000 years to decompose.
-  7. One quart of motor oil can contaminate 2 million gallons of fresh water.
-  8. In 2013, Americans recovered over 64.7 million tons of waste through recycling, and over 22 million tons through composting.
-* Let's process this!
-  1. Did you already know these?
-  2. Did any of them surprise you?
-  3. What can we do about it?
+* Lesson
+	1. What is sustainability? Quick brainstorm
+	2. Explain what it is & key words associated with it (mindful, long-term, future generations, resiliat, self-reliant)
+* Activity
+	1. Designing a resilient community (what does your community look like)? 
+	2. What happens to the community when there is a fire? flood? No jobs? Theft?
+	3. Choose one volunteer and ask them to pick from a list of products
+	4. Explore the connections to the outside world, and how this item has an ecological footprint, what systems its a part of, and how sustainable it is. 
 
 **Wednesday**
 * Review of HTML / CSS
