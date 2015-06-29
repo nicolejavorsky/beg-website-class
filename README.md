@@ -22,11 +22,13 @@ I am teaching a HTML / CSS class twice a week for the duration of the camp that 
 ## Week1
 **Monday**
 * Lesson
-* 1. Show the kids two tomatoes (one purchased from a typical supermarket, one from Harlem Grown farm)
-* 2. Explain that these two tomatoes have different cycles of food production
-* 3. Go through tomato 1 and 2 (general description) 
+1. Show the kids two tomatoes (one purchased from a typical supermarket, one from Harlem Grown farm)
+2. Explain that these two tomatoes have different cycles of food production
+3. 3. Go through tomato 1 and 2 (general description) 
 * Activity
-* 1. 
+1. Divide the kids into two groups and assign each group one tomato
+2. Ask them to draw the food production process for the tomato
+3. What do the seeds look like? What does the farm look like? Who is working on the farm? What happens after harvest? Who is buying or eating the tomato?
 
 **Wednesday**
 * Introduction to HTML
