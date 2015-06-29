@@ -21,14 +21,12 @@ I am teaching a HTML / CSS class twice a week for the duration of the camp that 
 
 ## Week1
 **Monday**
-* Discussion Questions
-  1. XXX
-  2. XXX
+* Lesson
+* 1. Show the kids two tomatoes (one purchased from a typical supermarket, one from Harlem Grown farm)
+* 2. Explain that these two tomatoes have different cycles of food production
+* 3. Go through tomato 1 and 2 (general description) 
 * Activity
-  1. Vote on a food item.
-  2. Bring out the long paper and art supplies.
-  3. Split kids into groups and assign one part of the production process to each group.
-  4. Each group illustrates a part of the process.
+* 1. 
 
 **Wednesday**
 * Introduction to HTML
