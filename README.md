@@ -76,6 +76,10 @@ I am teaching a HTML / CSS class twice a week for the duration of the camp that 
   <link rel="stylesheet" type="text/css" href="1.css">
   ```
   Let's break it down. First, you're saying, "Okay, I'm linking to a style sheet." Then, "Yeah, the type is a CSS text file." Finally, you're saying, "Here's the filename so you can find what I'm talking about." Kinda similar to adding images, right? Tell me how.
+  7. Let's see what you can do with CSS:
+  * Font-size
+  * Colors
+  * Explain Classes and IDs
 
 ## Week3
 **Monday**
